@@ -18,5 +18,6 @@ Contadora Pública con más de 8 años de experiencia en planificación fiscal y
 Estoy en constante formación para incorporar automatización y herramientas modernas de testing.
 
 📫 **Conectá conmigo en LinkedIn:** [linkedin.com/in/paola-alfonso-c](https://linkedin.com/in/paola-alfonso-c) 
+
 📁 **Mirá mis proyectos abajo 👇**
 
