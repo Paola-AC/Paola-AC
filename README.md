@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**Paola-AC/Paola-AC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 ¡Hola! Soy Paola, QA Trainee con background contable
 
-Here are some ideas to get you started:
+Contadora Pública con más de 8 años de experiencia en planificación fiscal y normativa internacional (NIIF / IFRS / US GAAP), actualmente en transición hacia el mundo tech como QA Manual.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Me especializo en identificar riesgos, analizar procesos y garantizar calidad, ahora aplicando estos mismos principios al testing de software.
+
+## 💼 Mi stack actual:
+
+- 🔍 Pruebas manuales
+- 🧪 Postman (API testing)
+- 💾 SQL
+- 🧠 Lógica de testing
+- 📂 Git / GitHub
+- 🐞 Reporte y documentación de bugs
+
+Estoy en constante formación para incorporar automatización y herramientas modernas de testing.
