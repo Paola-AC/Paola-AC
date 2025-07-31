@@ -16,7 +16,7 @@ Contadora Pública con más de 8 años de experiencia en planificación fiscal y
 
 <h2 align="center">
 
- Technologies and Languages
+ Tecnologias y Lenguajes
 
 </h2>
 
