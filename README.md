@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tuusuario/tu-repo/main/images/banner-linkedin.png" alt="Banner Paola Alfonso" style="width:100%; max-width:1000px;"/>
+  <img src="https://github.com/Paola-AC/Paola-AC/blob/main/LinkedIn_Background_PA_2.jpg" style="width:100%; max-width:1000px;"/>
 </p>
 
 
