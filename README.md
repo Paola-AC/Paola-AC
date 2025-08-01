@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tuusuario/tu-repo/main/images/banner-linkedin.png" alt="Banner Paola Alfonso" style="width:100%; max-width:1000px;"/>
+</p>
+
+
+
 <h1 align="center">👩‍💻 Paola Alfonso | QA Trainee + Contadora Pública</h1>
 
 <p align="center">
