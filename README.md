@@ -1,48 +1,64 @@
-# 👋 ¡Hola! Soy Paola, QA Trainee con background contable
+<h1 align="center">👩‍💻 Paola Alfonso | QA Trainee + Contadora Pública</h1>
 
-Contadora Pública con más de 8 años de experiencia en planificación fiscal y normativa internacional (NIIF / IFRS / US GAAP), actualmente en transición hacia el mundo tech como QA Manual.
+<p align="center">
+💼 Especialista en impuestos | 👩‍🔬 En transición al mundo Tech | 🔍 Foco en calidad y mejora continua
+</p>
 
-🔍 Me especializo en identificar riesgos, analizar procesos y garantizar calidad, ahora aplicando estos mismos principios al testing de software.
+---
 
-## 💼 Mi stack actual:
+## 📌 Sobre mí
 
-- 🔍 Pruebas manuales
-- 🧪 Postman (API testing)
-- 💾 SQL
-- 🧠 Lógica de testing
-- 📂 Git / GitHub
-- 🐞 Reporte y documentación de bugs
+Contadora Pública con más de **8 años de experiencia** en planificación fiscal y normativa internacional (**IFRS / US GAAP / NIIF**). Actualmente en transición hacia el mundo tecnológico como **QA Manual**, combinando mis habilidades analíticas, atención al detalle y experiencia en control con herramientas de testing de software.
 
+🔍 Aplico los mismos principios de análisis, control y precisión del mundo fiscal para garantizar la calidad en entornos digitales.
 
-<h2 align="center">
+---
 
- Tecnologias y Lenguajes
+## 🧰 Stack y herramientas actuales
 
-</h2>
+<div align="center">
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Microsoft Exel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Microsoft word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
+| Pruebas Manuales | Postman | SQL | Git & GitHub | Testing Funcional |
+|:----------------:|:-------:|:---:|:-------------:|:-----------------:|
+| 🔍              | 🧪     | 💾 | 📂           | 🧠               |
 
+</div>
 
-Estoy en constante formación para incorporar automatización y herramientas modernas de testing.
+---
 
-</h2>
+## 💡 Tecnologías y lenguajes en aprendizaje
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
 
+---
 
+## 🧾 Herramientas complementarias
 
-📫 **Conectá conmigo en LinkedIn:** [linkedin.com/in/paola-alfonso-c](https://linkedin.com/in/paola-alfonso-c) 
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
 
-📁 **Mirá mis proyectos abajo 👇**
+---
+
+## 📫 Contacto
+
+<p align="center">
+  <a href="mailto:tu-email@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/paola-alfonso-c"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://wa.me/1234567890"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+</p>
+
+---
+
+## 🚀 Proyectos destacados
+
+🛠 *Estoy construyendo mi portfolio de proyectos de testing manual y automatizado, puedes ver parte de ellos aqui abajo*  
 
