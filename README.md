@@ -22,7 +22,7 @@ Contadora Pública con más de **8 años de experiencia** en planificación fisc
 
 ## 🧰 Stack y herramientas actuales
 
-<div align="center">
+<div align="left">
 
 | Pruebas Manuales | Postman | SQL | Git & GitHub | Testing Funcional |
 |:----------------:|:-------:|:---:|:-------------:|:-----------------:|
@@ -34,7 +34,7 @@ Contadora Pública con más de **8 años de experiencia** en planificación fisc
 
 ## 💡 Tecnologías y lenguajes en aprendizaje
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -44,7 +44,7 @@ Contadora Pública con más de **8 años de experiencia** en planificación fisc
 
 ## 🧾 Herramientas complementarias
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
@@ -56,7 +56,7 @@ Contadora Pública con más de **8 años de experiencia** en planificación fisc
 
 ## 📫 Contacto
 
-<p align="center">
+<p align="left">
   <a href="mailto:tu-email@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/paola-alfonso-c"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://wa.me/1234567890"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
